@@ -1,5 +1,5 @@
 # Traffic-Light-Protocol-TLP-Definitions-Usage
-The [TLP](http://www.us-cert.gov/tlp/) (Traffic Light Protocol) is a well-known set of classification for sensitive information.
+The [TLP](https://www.cisa.gov/tlp) (Traffic Light Protocol) is a well-known set of classification for sensitive information.
 The TLP classification is regularly used by the security community, around the world.
 
 ### Summary
